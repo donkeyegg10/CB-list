@@ -380,8 +380,27 @@ background-color: #E6E6E6;
 border-width: 2px;
 border-style: solid;
 border-color: #000000;
+border-bottom: none;
 padding-left: 0.01em;
 padding-top: 0.01em;
+padding-bottom: 0.186em;
+margin-left: 2px;
+margin-right: 2px;
+width: 1492px;
+height: 524px;
+}
+.o2shirt {
+font: Georgia;
+color: #000000;
+font-size: 20px;
+text-align: left;
+background-color: #E6E6E6;
+border-width: 2px;
+border-style: solid;
+border-color: #000000;
+border-top-color: #ffffff;
+border-top: none;
+padding-left: 0.01em;
 margin-left: 2px;
 margin-right: 2px;
 margin-bottom: 5px;
@@ -693,3 +712,4 @@ margin-top: 3.4px;
 	outline: 3px solid red;
     outline-offset: -3px;
 }
+
